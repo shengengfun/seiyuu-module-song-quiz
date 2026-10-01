@@ -1,0 +1,6 @@
+# 模块仓库只收录源码：产物与依赖不入库
+node_modules/
+dist/
+*.tsbuildinfo
+*.local
+.DS_Store
